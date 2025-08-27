@@ -3,5 +3,6 @@
   "build": {
     "context": ".",
     "dockerfile": "Dockerfile"
-  }
+  },
+  "install": "apt-get install -y procps"
 }
