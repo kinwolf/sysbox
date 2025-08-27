@@ -4,5 +4,5 @@
     "context": ".",
     "dockerfile": "Dockerfile"
   },
-  "install": "apt-get install -y procps"
+  "install": "sudo apt-get install -y procps"
 }
